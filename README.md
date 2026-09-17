@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7675&center=true&vCenter=true&width=800&lines=✨+Trueness04+✨+GitHub+profile" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20My%Workspace&fontSize=40&fontAlignY=38" />
 
 </div>
 
-### 🙋‍♂️ About Me
+### Me  🙋‍♂️ 
 
 I am a software developer and infrastructure designer focused on anti-censorship network architecture, advanced proxy tools, and custom AI API gateways. I specialize in combining low-level network engineering with modern AI ecosystems.
 
