@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20%Workspace&fontSize=35&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text="Code%20is%20poetry,%20and%20Idea%20is%20the%20universe"&fontSize=30&fontAlignY=38" />
 
 
 <a href="https://git.io/typing-svg">
@@ -58,5 +58,8 @@ I am a software developer and infrastructure designer focused on anti-censorship
 
 ---
 <div align="center">
-  <i>"Code is poetry, Idea is the universe"</i>
+  <i> </i>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20%Workspace&fontSize=35&fontAlignY=38" />
+
