@@ -1,40 +1,60 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Amin+Azmoodeh+👋;Architecting+Unrestricted+Networks;Building+Intelligent+AI+Gateways)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profilee" alt="Typing SVG" />
+</a>
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7675&center=true&vCenter=true&width=800&lines=✨+Trueness04+✨+GitHub+profile" alt="Typing SVG" />
+</a>
 
-**Software Developer | Infrastructure Designer | AI & Network Engineer**
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=38" />
 
 </div>
 
-### 🚀 About Me
+### 🙋‍♂️ About Me
 
-I specialize in bypassing digital restrictions and bridging the gap between low-level network engineering and modern AI ecosystems. My work focuses on building robust proxies, custom API gateways, and intelligent routing tools.
+I am a software developer and infrastructure designer focused on anti-censorship network architecture, advanced proxy tools, and custom AI API gateways. I specialize in combining low-level network engineering with modern AI ecosystems.
 
-* 🔭 **Currently Building:** AI routing and proxy solutions like **9Router**, **OmniRoute**, **Mirage**, and **Chat2API**.
-* 🌐 **Network Architecture:** Designing network evasion tools utilizing eBPF and tunneling protocols (Xray-core, V2Ray, WireGuard, Cloudflare WARP, AmneziaWG).
-* 🤖 **AI Engineering:** Working with LLM agent frameworks (DSPy, Letta AI, Hermes) and browser automation via Playwright.
-* 🐧 **Environments:** Heavily customizing Linux distros (Alpine, Manjaro, Ubuntu) with Zsh and optimizing workflows with PowerShell 7.
-
-<br>
-
-<div align="center">
-
-### 🛠️ Tech Stack & Arsenal
-
-[![My Skills](https://skillicons.dev/icons?i=go,ts,py,nodejs,nextjs,docker,linux,powershell,cloudflare,nginx,git,bash&perline=6)](https://skillicons.dev)
-
-<br>
-
-### 📈 GitHub Analytics
-
-[![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-[![Amin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
+- 🔭**Enjoying with**: Planning, Building and Working with AI tools.
+- ⚙️**Trying hard**: Architecting network evasion solutions, leveraging eBPF.
+- 🎭**Interesting in**:  writing poet and making Song with AI.
 ---
 
-*"All in all it's just another brick in the wall."*
+<div align="center">
+  
+### 🛠️ Tech Stack 
 
+**Languages & Frameworks**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Networking & Infrastructure**  
+![WireGuard](https://img.shields.io/badge/WireGuard-881798?style=for-the-badge&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![V2Ray/Xray](https://img.shields.io/badge/V2Ray%20/%20Xray-1F2022?style=for-the-badge&logo=v&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**OS & CLI**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zsh](https://img.shields.io/badge/Zsh-111111?style=for-the-badge&logo=terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trueness04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trueness04&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+</div>
+
+---
+<div align="center">
+  <i>"Code is poetry, Idea is the universe"</i>
 </div>
