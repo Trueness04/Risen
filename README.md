@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20%Workspace&fontSize=35&fontAlignY=38" />
+
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profilee" alt="Typing SVG" />
 </a>
@@ -8,7 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7675&center=true&vCenter=true&width=800&lines=✨+Trueness04+✨+GitHub+profile" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20My%Workspace&fontSize=40&fontAlignY=38" />
 
 </div>
 
