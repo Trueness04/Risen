@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20Profilee&fontSize=15ontAlignY=38" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20Profilee&fontSize=40fontAlignY=38" />
 <br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7675&center=true&vCenter=true&width=800&lines=✨+Trueness04+✨+GitHub+profile" alt="Typing SVG" />
