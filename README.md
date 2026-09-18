@@ -1,7 +1,6 @@
 <div align="center">
 
-[[![SVG Animation](http://localhost:3000/api?lines=Code%20is%20poetry;and;Idea%20is%20the%20universe&animation=rainbow&color=3c659a&background=00000000&size=31&font=sans&duration=1500&pause=250&width=435&height=50&letterSpacing=0.05em&center=true&vCenter=true&multiline=false&repeat=true&random=true)](https://github.com/OstinUA)](http://localhost:3000/api?lines=Code%20is%20poetry;and;Idea%20is%20the%20universe&animation=rainbow&color=3c659a&background=00000000&size=31&font=sans&duration=1500&pause=250&width=435&height=50&letterSpacing=0.05em&center=true&vCenter=true&multiline=false&repeat=true&random=true
-)
+[![SVG Animation](https://readme-svg-typing-generator-qv6uf6uxu-onyxwwolf-9910s-projects.vercel.app/api?lines=Code%20is%20poetry;and;Idea%20is%20the%20universe&animation=rainbow&color=3c659a&background=00000000&size=31&font=sans&duration=1500&pause=250&width=435&height=50&letterSpacing=0.05em&center=true&vCenter=true&multiline=false&repeat=true&random=true)](https://github.com/OstinUA)
 <br/>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=✨+Trueness04+GitHub+profile+✨" alt="Typing SVG" />
