@@ -21,6 +21,8 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7675&center=true&vCenter=true&width=800&lines=+AboutMe+🙋‍♂️" alt="Typing SVG" />
 </a>
+
+<br/>
 I am a software developer and infrastructure designer focused on anti-censorship network architecture, advanced proxy tools, and custom AI API gateways. I specialize in combining low-level network engineering with modern AI ecosystems.
 
 -	🔭	**Enjoying with**: Planning, Building and Working with AI tools.
