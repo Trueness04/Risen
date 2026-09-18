@@ -18,6 +18,8 @@
 <br/>
 I am a software developer and infrastructure designer focused on anti-censorship network architecture, advanced proxy tools, and custom AI API gateways. I specialize in combining low-level network engineering with modern AI ecosystems.
 
+---
+
 -	🔭	**Enjoying with**: Planning, Building and Working with AI tools.
 -	⚙️	**Trying hard**: Architecting network evasion solutions, leveraging eBPF.
 -	🎭	**Interesting in**:  writing poet and making Song with AI.
