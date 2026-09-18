@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20Welcome%20&fontSize=40fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20%Welcome&fontSize=35&fontAlignY=38" />
+
 <br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7675&center=true&vCenter=true&width=800&lines=✨+Trueness04+✨+GitHub+profile" alt="Typing SVG" />
@@ -57,5 +58,4 @@ I am a software developer and infrastructure designer focused on anti-censorship
   <i> </i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20%Workspace&fontSize=35&fontAlignY=38" />
 
