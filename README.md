@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trueness04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trueness04&show_icons=true&theme=radical&hide_border=true" alt="" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trueness04&theme=radical&hide_border=true" alt="GitHub Streak" />
