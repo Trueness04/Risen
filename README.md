@@ -7,7 +7,6 @@
 </a>
 
 
-### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Trueness04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
