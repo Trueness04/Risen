@@ -7,13 +7,25 @@
 </a>
 
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trueness04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trueness04&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 </div>
+
 <br/>
+
 I am a software developer and infrastructure designer focused on anti-censorship network architecture, advanced proxy tools, and custom AI API gateways. I specialize in combining low-level network engineering with modern AI ecosystems.
-<br/>
+
+
 - 🔭**Enjoying with**: Planning, Building and Working with AI tools.
 - ⚙️**Trying hard**: Architecting network evasion solutions, leveraging eBPF.
 - 🎭**Interesting in**:  writing poet and making Song with AI.
+  
 ---
 
 <div align="center">
@@ -38,14 +50,6 @@ I am a software developer and infrastructure designer focused on anti-censorship
 ![Zsh](https://img.shields.io/badge/Zsh-111111?style=for-the-badge&logo=terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trueness04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trueness04&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 </div>
 
