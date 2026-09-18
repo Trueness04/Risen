@@ -8,9 +8,6 @@
 
 
 </div>
-
-### Me  🙋‍♂️ 
-
 I am a software developer and infrastructure designer focused on anti-censorship network architecture, advanced proxy tools, and custom AI API gateways. I specialize in combining low-level network engineering with modern AI ecosystems.
 
 - 🔭**Enjoying with**: Planning, Building and Working with AI tools.
