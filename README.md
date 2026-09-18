@@ -1,8 +1,7 @@
 <div align="center">
   
-[![SVG Animation](https://readme-typing-svg.herokuapp.com?lines=Code%20is%20poetry;and;Idea%20is%20the%20universe&animation=rainbow&color=36BCF7&background=00000000&size=41&font=sans&duration=5000&pause=1000&width=435&height=50&letterSpacing=normal&center=true&vCenter=false&multiline=false&repeat=true&random=true)](https://git.io/typing-svg)
-
-
+  
+[![SVG Animation](https://readme-typing-svg.herokuapp.com?lines=W%20E%20L%20L%20C%20O%20M%20E%20&animation=rainbow&color=36BCF7&background=00000000&size=41&font=sans&duration=5000&pause=1000&width=435&height=50&letterSpacing=normal&center=true&vCenter=false&multiline=false&repeat=true&random=true)](https://git.io/typing-svg)
 
 
 
